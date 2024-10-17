@@ -1,9 +1,7 @@
 
 # Layoff Data Analysis in Large Companies (2020-2023)
 
-
-## A brief description of what this project does and who it's for
-
+This project focused on analyzing layoff trends in major U.S. companies during the COVID-19 pandemic, covering the period from 2020 to 2023. Using MySQL, I extracted insights into how economic shifts impacted employment across various industries and company sizes.
 
 ## Key Responsibilities:
 
